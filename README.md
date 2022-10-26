@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-- 🤍 Developer for Python, Web, C# 
+- 🤍 wDeveloper for Python, Web, C# 
   <br>
 - 🖤 Contact me at Discord
 </p>
