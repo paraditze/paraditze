@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/paradiseDeveloping/pictures/blob/main/giphy.gif">
+  <img src="https://s4.gifyu.com/images/standard385a14a3bcd687b4.md.gif">
 </p>
 
 <!---
