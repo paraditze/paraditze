@@ -4,7 +4,7 @@
   </p>
 </h1>
 <p align="center">
-  <img src="https://s4.gifyu.com/images/standard-2fb83c2b445801947.gif">
+  <img src="https://s4.gifyu.com/images/standard-3de3bb681e4e53dc1.gif">
 </p>
 
 <p align="center">
@@ -20,7 +20,18 @@ c# <br>
 
 <p align="center">
 ɪᴍᴀɢɪɴᴇ ᴊᴏɪɴɪɴɢ ᴄᴏᴅɪɴɢ ᴅᴄ'ꜱ ɪɴꜱᴛᴇᴀᴅ ᴏꜰ ᴛʀʏɪɴɢ ᴜʀꜱᴇʟꜰ <br>
-copy n paste veteran of team nightmare <br>
+
+<h1> 
+  <p align="center">
+    Teams
+  </p>
+</h1>
+<p align="center">
+Nightmare
 <img src="https://github.com/Darkiyus/Darkiyus/blob/main/Nightmare_Banner.gif?raw=true">
+</p>
+<p align="center">
+SexM
+<img src="https://cdn.discordapp.com/attachments/1027633940334395403/1034211562304581793/standard_3.gif">
 </p>
 
