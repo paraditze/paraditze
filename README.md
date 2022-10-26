@@ -4,7 +4,7 @@
   </p>
 </h1>
 <p align="center">
-  <img src="https://s4.gifyu.com/images/standard-2fb83c2b445801947.gif">
+<img src="https://s4.gifyu.com/images/standard-2fb83c2b445801947.gif">\n
 19 yr old developer from germany.
 started coding 2 yrs ago from scratch (who needs youtube when ur able to recycle stackoverflow)
 interested in the following languages
