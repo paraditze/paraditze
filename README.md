@@ -9,7 +9,7 @@
 
 <p align="center">
 19 yr old developer from germany. <br>
-started coding 2 yrs ago from scratch (who needs youtube when ur able to recycle stackoverflow)
+started from scratch 2 years ago (who needs youtube when ur able to recycle stackoverflow)
 interested in the following languages <br><br>
 python <br>
 lua <br>
