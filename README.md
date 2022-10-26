@@ -18,8 +18,8 @@ c# <br>
 </p>
 
 
-# ɪᴍᴀɢɪɴᴇ ᴊᴏɪɴɪɴɢ ᴄᴏᴅɪɴɢ ᴅᴄ'ꜱ ɪɴꜱᴛᴇᴀᴅ ᴏꜰ ᴛʀʏɪɴɢ ᴜʀꜱᴇʟꜰ 
 <p align="center">
+ɪᴍᴀɢɪɴᴇ ᴊᴏɪɴɪɴɢ ᴄᴏᴅɪɴɢ ᴅᴄ'ꜱ ɪɴꜱᴛᴇᴀᴅ ᴏꜰ ᴛʀʏɪɴɢ ᴜʀꜱᴇʟꜰ <br>
 copy n paste veteran of team nightmare <br>
 <img src="https://github.com/Darkiyus/Darkiyus/blob/main/Nightmare_Banner.gif?raw=true">
 </p>
