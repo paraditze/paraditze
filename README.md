@@ -20,7 +20,6 @@ interested in the following languages
 
 <p align="center">
 ɪᴍᴀɢɪɴᴇ ᴊᴏɪɴɪɴɢ ᴄᴏᴅɪɴɢ ᴅᴄ'ꜱ ɪɴꜱᴛᴇᴀᴅ ᴏꜰ ᴛʀʏɪɴɢ ᴜʀꜱᴇʟꜰ
-
 copy n paste veteran of team nightmare
 <img src="https://github.com/Darkiyus/Darkiyus/blob/main/Nightmare_Banner.gif?raw=true">
 </p>
