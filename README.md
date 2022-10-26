@@ -5,9 +5,19 @@
 </h1>
 
 <p align="center">
-- 🤍 wDeveloper for Python, Web, C# 
-  <br>
-- 🖤 Contact me at Discord
+19 yr old developer from germany.
+started coding 2 yrs ago from scratch (who needs youtube when ur able to recycle stackoverflow)
+interested in the following languages
+
+- python
+- lua
+- js 
+- c#
+
+ɪᴍᴀɢɪɴᴇ ᴊᴏɪɴɪɴɢ ᴄᴏᴅɪɴɢ ᴅᴄ'ꜱ ɪɴꜱᴛᴇᴀᴅ ᴏꜰ ᴛʀʏɪɴɢ ᴜʀꜱᴇʟꜰ
+
+copy n paste veteran of team nightmare
+<img src="https://github.com/Darkiyus/Darkiyus/blob/main/Nightmare_Banner.gif?raw=true">
 </p>
 
 <p align="center">
