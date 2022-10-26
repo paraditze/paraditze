@@ -1,6 +1,6 @@
 <h1> 
   <p align="center">
-    paradise#0666
+    Recycle code instead of recoding
   </p>
 </h1>
 
