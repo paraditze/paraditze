@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://s4.gifyu.com/images/standard385a14a3bcd687b4.md.gif">
+  <img src="https://s4.gifyu.com/images/standard-1fae94998f02af1a6.gif">
 </p>
 
 <!---
