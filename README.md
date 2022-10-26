@@ -4,6 +4,9 @@
   </p>
 </h1>
 <p align="center">
+ɪᴍᴀɢɪɴᴇ ᴊᴏɪɴɪɴɢ ᴄᴏᴅɪɴɢ ᴅᴄ'ꜱ ɪɴꜱᴛᴇᴀᴅ ᴏꜰ ᴛʀʏɪɴɢ ᴜʀꜱᴇʟꜰ <br>
+</p>
+<p align="center">
   <img src="https://s4.gifyu.com/images/standard-3de3bb681e4e53dc1.gif">
 </p>
 
@@ -18,20 +21,17 @@ c# <br>
 </p>
 
 
-<p align="center">
-ɪᴍᴀɢɪɴᴇ ᴊᴏɪɴɪɴɢ ᴄᴏᴅɪɴɢ ᴅᴄ'ꜱ ɪɴꜱᴛᴇᴀᴅ ᴏꜰ ᴛʀʏɪɴɢ ᴜʀꜱᴇʟꜰ <br>
-
 <h1> 
   <p align="center">
     Teams
   </p>
 </h1>
 <p align="center">
-Nightmare
-<img src="https://github.com/Darkiyus/Darkiyus/blob/main/Nightmare_Banner.gif?raw=true">
+Nightmare<br>
+<img src="https://github.com/Darkiyus/Darkiyus/blob/main/Nightmare_Banner.gif?raw=true"><br>
 </p>
 <p align="center">
-SexM
+SexM<br>
 <img src="https://cdn.discordapp.com/attachments/1027633940334395403/1034211562304581793/standard_3.gif">
 </p>
 
