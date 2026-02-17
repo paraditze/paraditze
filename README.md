@@ -34,4 +34,6 @@ class Profile:
         self.language = ["Python", "JavaScript", "HTML/CSS"]
         self.focus    = ["DiscordBots", "Websites", "Automation"]
         self.hosting  = "VoxmeHosting"
-        self.style    = "Anti-Mainstream"
+        self.car  = "Clio IV "
+        self.pleasehelpme  = "do it"
+
