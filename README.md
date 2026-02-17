@@ -1,37 +1,37 @@
 <div align="center">
 
-# ⚡ [DEIN PROJEKTNAME] ⚡
+# ⚡ [YOUNII]
 
-## >_ [KURZER, AUFREGENDER SUBTITLE] _<
-
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FFFF?style=for-the-badge&logo=power-shell&logoColor=white)](https://github.com/dein-github-name/dein-repo)
-[![Powered By](https://img.shields.io/badge/POWERED_BY-VOXME_HOSTING-9D00FF?style=for-the-badge&logo=serverfault&logoColor=white)](https://voxmehosting.de)
+`[ STATUS: UNREACHABLE ]`
 
 ---
+
+### 🛠 WORKSTATION
+**Custom Discord Bots • Web-Snippets • Python Logic • Mini-Tools**
+
+> Hier landet alles, was ich gerade baue, teste oder für später archiviere. 
+
+---
+
+### 📡 ECOSYSTEM
+Powered by **VoxmeHosting** | Focused on **Quality & Precision**
 
 </div>
 
 <br>
 
-### █ [ÜBERSCHRIFT 1: WAS ES IST]
-
-> [EIN BIS ZWEI SÄTZE, DIE DEIN PROJEKT BESCHREIBEN ODER SEINE PHILOSOPHIE DARSTELLEN. DENK AN EINEN HOOK.]
-
-<br>
-
-### █ [ÜBERSCHRIFT 2: FEATURES / HIGHLIGHTS]
-
-* **[FEATURE 1]:** [KURZE BESCHREIBUNG, WAS ES KANN]
-* **[FEATURE 2]:** [WEITERE KURZE BESCHREIBUNG]
-* **[FEATURE 3]:** [Vielleicht ein Alleinstellungsmerkmal?]
+### █ RECENT REPOS / SNIPPETS
+* **[1]:** [-]
+* **[2]:** [-]
+* **[3]:** [-]
 
 <br>
 
-### █ [ÜBERSCHRIFT 3: TECHNOLOGIE / STACK (OPTIONAL, KURZ)]
-
-```bash
-# [Code Snippet oder Tech Stack Listing]
-# Z.B.:
-# Python 3.10+
-# discord.py
-# Modern Web Stacks
+### █ TECH STACK
+```python
+class Profile:
+    def __init__(self):
+        self.language = ["Python", "JavaScript", "HTML/CSS"]
+        self.focus    = ["DiscordBots", "Websites", "Automation"]
+        self.hosting  = "VoxmeHosting"
+        self.style    = "Anti-Mainstream"
